@@ -47,3 +47,6 @@ cd Recommender-System-using-Wide-and-Deep-Learning
 Install dependencies:
 pip install -r requirements.txt
 Run the notebook or script to train the model.
+
+References
+Cheng et al. (2016). Wide & Deep Learning for Recommender Systems
